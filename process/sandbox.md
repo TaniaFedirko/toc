@@ -85,7 +85,7 @@ Some key points:
 
 ### Application into Sandbox 
 
-To apply for inclusion into the Sandbox, projects should use [this form](https://docs.google.com/forms/d/1bJhG1MuM981uQXcnBMv4Mj9yfV5_q5Kwk3qhBCLa_5A/edit). 
+To apply for inclusion into the Sandbox, projects should submit an issue into the (sandbox)[https://www.github.com/cncf/sandbox] repo to be added to the queue.
 The TOC will review on a rotating basis, currently every two months as of June 2020.  
 
 ### Annual review
