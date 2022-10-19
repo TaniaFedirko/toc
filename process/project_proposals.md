@@ -18,27 +18,8 @@ All exceptions (and "no" outcomes) are handled by the TOC. Possible "no" outcome
 ![Sandbox process](sandbox-process.png)
 
  *Project Proposal*
-   * Project proposed through a [form](https://docs.google.com/forms/d/1bJhG1MuM981uQXcnBMv4Mj9yfV5_q5Kwk3qhBCLa_5A/edit)
+   * Project proposed through an issue in the [Sandbox](http://www.github.com/cncf/sandbox) repository. 
 
- *TOC Review*
-   * TOC reviews proposal in spreadsheet and presentation, project passes for inclusion with a simple majority vote. 
-   * TOC may engage with project to ask further questions
-   * Projects may re-apply after six months
-   * Annual reviews are performed in order to check in with sandbox projects, ascertain their progress, and address any outstanding questions
-     * A TOC representative volunteers to lead the review once the project files a PR.
-     * The assigned member reviews the content of the PR and analyzes the project for community health indicators, their findings are placed within a thread in the private TOC channel for discussion
-       * findings should highlight important facts about the project that could influence the TOCs decision around the future of the project, its status in sandbox, its path to incubation, etc.
-       * the thread should always include whether the Project's view of themselves and the ask of the CNCF is reasonable to assist the project moving forward.
-     * Projects are invited to the public TOC meeting to engage in TOC led discussion around the project. Projects are not obligated to attend.
-     * The assigned TOC member provides a summary of the project and leverages the thread's content as the basis of discussion.
-       * Discussion typically focuses on what is going well with the project and areas to improve
-     * Project are invited to use this time to voice any concerns and requests for help they may have that are not captured in the PR (or highlight asks within the PR).
-     * At the conclusion of the public meeting, the TOC votes to approve all annual reviews covered. Should a concern registered on a project, the votes will be held separately.
-     * After the meeting wraps up, the assigned TOC member may summarize the discussion on the PR in the form of a comment to document information for the project and community.
- 
- *Governance / legal issues* 
-   * CNCF staff handle governance / legal issues
-   * Projects are encouraged to participate/attend TOC meetings and reach out to TAGs for advice or scheduling presentations and discussions.
 
 See the [Sandbox guidelines](https://github.com/cncf/toc/blob/main/process/sandbox.md) for the definition of and motivation behind the CNCF Sandbox.
 
